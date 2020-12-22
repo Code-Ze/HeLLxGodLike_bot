@@ -1,7 +1,7 @@
 {
-  "name": "HeLLxGodLike_Bot",
-  "description": "Made by @danish_00.stolen by me😆",
-  "logo": "https://telegra.ph/file/8bee33b123d055a569969.jpg",
+  "name": "Nightek Test",
+  "description": "Kanged from @HeLLxGodLike ",
+  "logo": "https://telegra.ph/file/69a418ddbbdef06e9af46.jpg",
     "keywords": [
     "telegram",
     "userbot",
@@ -9,9 +9,9 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/HeLLxGodLike/HeLLxGodLike_bot/",
-  "website": "https://github.com/HeLLxGodLike/HeLLxGodLike_bot/",
-  "success_url": "https://t.me/HeLLxGodLike",
+  "repository": "https://github.com/Code-Ze/HeLLxGodLike_bot/",
+  "website": "https://github.com/Code-Ze/HeLLxGodLike_bot/",
+  "success_url": "https://t.me/Zekxx",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable heroku.",
@@ -28,7 +28,7 @@
       "required": false
     },
     "ALIVE_NAME": {
-      "description": "Fill your Full name or Username like @danish_00.",
+      "description": "Fill your Full name or Username like @zekxx.",
       "value": "",
       "required": false
     },
